@@ -3,6 +3,7 @@
 
 kevin brayan chinuri jancko <br>
 Alfredo Ronald Choquerive Toroya <br>
-Heidy Montaño Calancha
+Heidy Montaño Calancha <br>
+Cristhian Nina Mamani <br>
 
 
