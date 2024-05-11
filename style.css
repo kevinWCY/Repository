@@ -87,3 +87,10 @@ nav ul li a:hover {
     margin-bottom: 10px;
 }
 
+.anime-item .anime-description {
+    text-align: center;
+}
+
+.anime-description .anime-link {
+    margin-top: 10px;
+}
