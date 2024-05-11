@@ -44,6 +44,29 @@ nav ul li a:hover {
     text-decoration: underline;
 }
 
+.container {
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
 
+.main {
+    width: 70%;
+}
+
+.sidebar {
+    background: #ddd;
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.anime-list {
+    margin-bottom: 20px;
+    overflow-y: auto;
+}
 
 
