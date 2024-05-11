@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
 }
 
 body{
@@ -96,7 +98,7 @@ nav ul li a:hover {
 }
 
 .anime-item img.custom-height {
-    height: 25px;
+    height: 250px;
     width: auto;
 }
 
