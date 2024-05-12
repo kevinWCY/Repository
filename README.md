@@ -21,6 +21,11 @@ Nos sirvio GitFlow aunque tuvimos algunos conflictos fueron exclusivamente por e
 ## Buenas y malas practicas
 ### Kevin
 Kevin tuvo buenas practicas al momento de hacer sus commits ya que seguian un formato explicado en clases, aunque a un inicio los commits no tenian un "titulo" bueno que digamos a lo largo del tiempo se fue dando las buenas practicas para poder asi ver que mientras uno va metiendose a este mundo del Git y GitHub va mejorando y por temas de aprendizaje se hizo asi, empezar con commits no "buenos" a commits con un formato de buenas practicas.
+## Heidy
+
+## Ronald
+
+## Cristhian
 ## Git hooks o Git alias
 No se llego a utilizar Git hooks o Git alias por temas de tiempo entre los distintos participantes del grupo
 ## Herramientas
