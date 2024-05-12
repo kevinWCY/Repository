@@ -24,6 +24,7 @@ Kevin tuvo buenas practicas al momento de hacer sus commits ya que seguian un fo
 ## Heidy
 Heidy tuvo un buen desempeño en el desarrollo del codigo, en quitar el codigo innecesario para asi se haga una buena practica no tan solo en el codigo de html si no que tambien en los commits de github, talvez no se hicieron las buenas practicas del commit por la falta de practica pero a medida que se avanzo el proyecto se fueron mejorando esos aspectos.
 ## Ronald
+Ronad al inicio tuvo errores en los commits, no usaba verbos imperativos pero a medida que fuimos avanzando fue mejorando tambien tuvo problemas al hacer el merge porque hizo merge en el main xd, pero su desempeño en los style fue bueno 
 
 ## Cristhian
 ## Git hooks o Git alias
