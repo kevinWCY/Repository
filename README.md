@@ -27,6 +27,7 @@ Heidy tuvo un buen desempeño en el desarrollo del codigo, en quitar el codigo i
 Ronad al inicio tuvo errores en los commits, no usaba verbos imperativos pero a medida que fuimos avanzando fue mejorando tambien tuvo problemas al hacer el merge porque hizo merge en el main xd, pero su desempeño en los style fue bueno 
 
 ## Cristhian
+Hizo buenas practicas por que su formato de commit estaba en el formato adecuado al principio tuvo fallas con los comandos pero a medida que fuimos avanzando con el mini proyecto fue mejorando.
 ## Git hooks o Git alias
 No se llego a utilizar Git hooks o Git alias por temas de tiempo entre los distintos participantes del grupo
 ## Herramientas
