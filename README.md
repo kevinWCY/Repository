@@ -22,7 +22,7 @@ Nos sirvio GitFlow aunque tuvimos algunos conflictos fueron exclusivamente por e
 ### Kevin
 Kevin tuvo buenas practicas al momento de hacer sus commits ya que seguian un formato explicado en clases, aunque a un inicio los commits no tenian un "titulo" bueno que digamos a lo largo del tiempo se fue dando las buenas practicas para poder asi ver que mientras uno va metiendose a este mundo del Git y GitHub va mejorando y por temas de aprendizaje se hizo asi, empezar con commits no "buenos" a commits con un formato de buenas practicas.
 ## Heidy
-
+Heidy tuvo un buen desempeño en el desarrollo del codigo, en quitar el codigo innecesario para asi se haga una buena practica no tan solo en el codigo de html si no que tambien en los commits de github, talvez no se hicieron las buenas practicas del commit por la falta de practica pero a medida que se avanzo el proyecto se fueron mejorando esos aspectos.
 ## Ronald
 
 ## Cristhian
