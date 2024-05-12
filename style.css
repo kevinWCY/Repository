@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1,6;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    width: 70%;
+}
+
+.sidebar {
+    background: #ddd;
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.anime-list {
+    margin-bottom: 20px;
+    overflow-y: auto;
+}
+
+.anime.item {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.anime-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.anime-item .anime-description {
+    text-align: center;
+}
+
+.anime-description .anime-link {
+    margin-top: 10px;
+}
+
+.anime-item img.custom-height {
+    height: 250px;
+    width: auto;
+}
+
+.popular-week {
+    max-height: 200px;
+    overflow-y: auto;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.popular-item {
+    background-color: #fff;
+    width: calc(50% - 20px);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.popular-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    clear: both;
+}
+
+.this {
+    height: 1px;
+    width: auto;
+}
+
+.col {
+    color:red;
+    font-size:20px;
+}
